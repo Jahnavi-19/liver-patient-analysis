@@ -1,3 +1,4 @@
+# Liver Patient Analysis
 # Project Overview:
 This project addresses the critical challenge of predicting liver disease in patients by applying machine learning algorithms to a dataset of patient records. The goal is to improve early diagnosis and reduce the burden on medical professionals, especially in regions with limited healthcare access. Using supervised learning techniques, this project aims to provide an accurate classification model that can predict whether a patient is at risk of liver disease based on specific health indicators.
 # Objectives:
